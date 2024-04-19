@@ -11,3 +11,10 @@ body{
 .row{
     margin-bottom: 0;
 }
+
+.letra1 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
